@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;}
+
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+.cabecalio{
+list-style:none;
+display: flex;
+padding: 20px;
+background-color: rgb(107, 167, 245);
+}
+.botão{
+font-size: 20px;
+}
