@@ -19,3 +19,8 @@ function start(){
     }
     setInterval(Move, 7000);
 }
+
+function enviar() {
+    alert("Enviado com sucesso")
+
+}
