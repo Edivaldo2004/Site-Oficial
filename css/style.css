@@ -4,7 +4,7 @@ body{
 font-family: arial, helvetica, sans-serif;
 font-size: 12px;
 margin-left: 80px;
-background-image: linear-gradient(to right, #000, rgb(20, 147, 220), rgb(17, 54, 71));
+background-color: #050A2B;
 }
 a{
     text-decoration: none;
@@ -24,10 +24,10 @@ margin-left: 1150px;
 font-size: 17px;
 text-decoration: none;
 padding: 10px;
-background-color: rgb(9, 12, 31);
+background-color: #11919E;
 border-radius: 10px;
 margin-left: 50px;
-
+color:aliceblue;
 }
 .content {
     height: 520px;
