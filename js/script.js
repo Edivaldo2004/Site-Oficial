@@ -9,12 +9,12 @@ setInterval( function(){
     }
 }, 3000 );
  
-pnload = start;
+onload = start;
 
 function start(){
     var i = 1;
     function Move(){
-        i = (i%4)+1;
+        i = (i%5)+1;
         document.getElementById('t' +i).checked = true;
     }
     setInterval(Move, 7000);
